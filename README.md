@@ -10,7 +10,23 @@ We utilize pretrained Deep Learning MobileNet V3 Small for Extracting Feature an
 * Muhammad Afdal Abdallah 50252012163
 * Ingwer Ludwig 5025201259
 
-# Getting Started
+## Dataset
+Our Dataset contains of 14 Class. With 9 of 14 is obtained from the Kaggle and the rest of class was obtained from Google Image.
+
+## Resource Dataset
+1. Kaggle
+Classes = Ayam Goreng, Ayam Pop, Daging Rendang, Dendeng Batokok, Gulai Ikan, Gulai Tambusu, Gulai Tunjang, Telur Rebus Balado, Telur Dadar Goreng
+
+2. Google Image
+
+Classes :
+- Lele Goreng
+- Nasi
+- Tahu Goreng
+- Telur Matasapi Goreng
+- Tempe Goreng
+
+## Getting Started
 1. Clone repository following this command
     ```
     git clone https://github.com/ingwerludwig/ml-fp-ppb.git
